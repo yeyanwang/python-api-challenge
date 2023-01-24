@@ -5,7 +5,7 @@ The **WeatherPy** directory contains 2 Jupyter Source Files **WeatherPy.ipynb** 
 ### WeatherPy
 
 **Findings:**
-Looking at the scatter plots and linear regression line created between weather variables(temperature, humidity, cloudiness, and wind speed) and latitude for both Northern and Southern Hemisphere 
+Looking at the scatter plots and linear regression line created between weather variables(temperature, humidity, cloudiness, and wind speed) and latitude for both Northern and Southern Hemispheres
 
 
 ### VacationPy
