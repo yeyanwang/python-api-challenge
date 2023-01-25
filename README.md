@@ -21,7 +21,3 @@ The **WeatherPy** directory contains 2 Jupyter Source Files **WeatherPy.ipynb** 
 **Wind Speed vs. Latitude**
 * There is a negligible to almost no correlation between wind speed and latitude with a correlation coefficient of 0.21507837130179397 on Northern Hemisphere.
 * There is a weak negative correlation between wind speed and latitude with a correlation coefficient of -0.33748967967974725 on Southern Hemisphere.
-
-### VacationPy
-
-
