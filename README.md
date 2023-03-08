@@ -46,6 +46,7 @@ The two Jupyter Source Files utilize Pandas library to create DataFrame for each
 
 * Create `city map` that displays a point for every city in the `city_data_df` DataFrame using data in `output_data/cities.csv`. The size of the point is determined by the humidity level in each city.
 
+  <img width="599" alt="image" src="https://user-images.githubusercontent.com/120543690/223595751-cea05a98-42bf-492b-a22d-d287e119626b.png">
 
 * Narrow down cities that fit the criteria and drop any results with null values, the criteria are listed below:
   1. A max temperature lower than 27 degrees but higher than 21
@@ -64,4 +65,5 @@ The two Jupyter Source Files utilize Pandas library to create DataFrame for each
    |jhanjharpur	|IN	|26.2667	|86.2833	|32	|No hotel found|
 
 * Add the hotel name and the country as additional information in the hover message for each city in `hotel map`
+  <img width="477" alt="image" src="https://user-images.githubusercontent.com/120543690/223595509-f20642f5-c763-4f13-b11c-c34dd82774c4.png">
 
