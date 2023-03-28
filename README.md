@@ -4,7 +4,7 @@ The `WeatherPy` directory contains 2 Jupyter Source Files `WeatherPy.ipynb` and 
 
 The two Jupyter Source Files utilize Pandas library to create DataFrame for each dataset. Matplotlib library was imported to create series of scatter plots based on different variables. Scipy and linregress were also imported to help with statistical computation and generate linear regresssion line for the data points. Citipy was imported to generate list of cities with the coordinates, hvplot was imported for interactive data visualization, and geoviews is imported to explore and visualize data geographically.
 
-### WeatherPy
+## WeatherPy
 
 **Temperature vs. Latitude**
 * There is a fairly strong negative correlation between temperature and latitude with a correlation coefficient of -0.8088479825279142 on Northern Hemisphere.
@@ -42,7 +42,7 @@ The two Jupyter Source Files utilize Pandas library to create DataFrame for each
   
   ![image](https://user-images.githubusercontent.com/120543690/221319913-06ca2938-024f-447f-83f7-d1dc1d00cf03.png)
 
-### VacationPy
+## VacationPy
 
 * Create `city map` that displays a point for every city in the `city_data_df` DataFrame using data in `output_data/cities.csv`. The size of the point is determined by the humidity level in each city.
 
